@@ -1,0 +1,14 @@
+{
+  "translation": {
+    "language": "Idioma",
+    "city": "Cidade",
+    "enterCity": "Digite uma cidade",
+    "autoRetrieveLocation": "Recuperar local automaticamente",
+    "rain": "Chuva",
+    "humidity": "humidity",
+    "wind": "wind",
+    "toggleUnit": "Mudar unidade",
+    "temperature": "Unidade da temperatura"
+
+  }
+}

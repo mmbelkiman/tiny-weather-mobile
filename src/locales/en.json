@@ -1,0 +1,13 @@
+{
+  "translation": {
+    "language": "Language",
+    "city": "City",
+    "enterCity": "Enter a city",
+    "autoRetrieveLocation": "Auto-retrieve location",
+    "rain": "Rain",
+    "humidity": "humidity",
+    "wind": "wind",
+    "toggleUnit": "Toggle Unit",
+    "temperature": "Temperature Unit"
+  }
+}
